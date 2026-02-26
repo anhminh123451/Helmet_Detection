@@ -1,0 +1,16 @@
+# Bỏ qua thư mục ảo
+venv/
+env/
+.env
+
+# Bỏ qua file cache của Python
+__pycache__/
+*.pyc
+
+# Bỏ qua dữ liệu ảnh test (nếu quá nhiều)
+static/uploads/
+runs/
+
+# Bỏ qua file hệ thống
+.DS_Store
+.vscode/
